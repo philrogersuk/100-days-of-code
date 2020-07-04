@@ -5,8 +5,9 @@
 **Today's Progress**: Updates to Stand Sponsorship page. Now works on new site and uses new styling
 
 **Thoughts:** 
-- ncomplete; needs the page content adding and styling. Also need to add the admin tools for this
+- Incomplete; needs the page content adding and styling. Also need to add the admin tools for this
 - Also migrated test.hendonfc.net to port 443 with the new site and refreshed the database from prod site.
+- Slow work today.
 
 **Link to work:** https://test.hendonfc.net/GaryMcCannStand
 
@@ -18,7 +19,7 @@
 
 **Thoughts:** 
 - Scripted the renewal of SSL certificates on Unix.
-- Stops the springboot app, renews the certificates and restarts the app
+- Stops the springboot app, renews the certificates and restarts the app. Neat & secure :+1:
 
 **Link to work:** N/A
 
