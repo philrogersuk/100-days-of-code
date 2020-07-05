@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 3: 5th July 2020
+
+**Today's Progress**: Small bugfixes and CMS migration
+
+**Thoughts:** 
+- Added total player appearances and goals back into player profiles
+- Added the ability to enter teams into a league back into CMS.
+- Some progress on Stand sponsorship CMS, but incomplete.
+- Some minor refactoring improvements, but much to still do!
+
+**Link to work:** N/A;
+
+
 ### Day 2: 4th July 2020
 
 **Today's Progress**: Updates to Stand Sponsorship page. Now works on new site and uses new styling
@@ -11,7 +24,6 @@
 - Slow work today.
 
 **Link to work:** https://test.hendonfc.net/GaryMcCannStand
-
 
 
 ### Day 1: 3rd July 2020
