@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 4: 6th July 2020
+
+**Today's Progress**: Monday = Exercism exercises. 4 simple solutions completed
+
+**Thoughts:** 
+- Relatively simple exercises. Completed:
+  - Pangram
+  - Hamming
+  - Gigasecond
+  - Space Age
+- Surprised to see two stars on an earlier solution!
+
+**Link to work:** https://github.com/philrogersuk/Exercism
+
+
 ### Day 3: 5th July 2020
 
 **Today's Progress**: Small bugfixes and CMS migration
