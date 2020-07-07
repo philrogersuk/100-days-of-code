@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 5: 7th July 2020
+
+**Today's Progress**: Refactoring, refactoring, refactoring
+
+**Thoughts:** 
+- Cleaner code = nicer code :)
+- Lots to still do though :(
+
+**Link to work:** N/A
+
+
 ### Day 4: 6th July 2020
 
 **Today's Progress**: Monday = Exercism exercises. 4 simple solutions completed
