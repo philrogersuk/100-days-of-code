@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 6: 8th July 2020
+
+**Today's Progress**: React.js pluralsight course stuff
+
+**Thoughts:** 
+- Useful refresh of what I went through ages ago
+- Should setup Greensnet npm-app with my own config, not create-react-js
+
+**Link to work:** N/A
+
+
+
 ### Day 5: 7th July 2020
 
 **Today's Progress**: Refactoring, refactoring, refactoring
