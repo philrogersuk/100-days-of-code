@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 7: 9th July 2020
+
+**Today's Progress**: Fixes to the staff admin page
+
+**Thoughts:** 
+- It's a horrific page
+- Need to handle penpics better
+- Does at least work. Just about!
+
+**Link to work:** N/A
+
+
 ### Day 6: 8th July 2020
 
 **Today's Progress**: React.js pluralsight course stuff
