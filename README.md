@@ -1,9 +1,5 @@
 # I've joined the #100DaysOfCode Challenge
 
-Soon. Probably.
-
-
-
 ## Contents
 
 * [Log - click here to see my progress](log.md)
