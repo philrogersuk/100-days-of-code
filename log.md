@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+
+### Day 8: 11th July 2020
+
+**Today's Progress**: Fixes to admin pages
+
+**Thoughts:** 
+- Snowball admin now available
+- Penpics now updated separately to rest of player profile
+- Also installed Docker on Win 10 Home!!!
+
+**Link to work:** N/A
+
+
+### Day 7a: 10th July 2020
+
+Day off
+
 ### Day 7: 9th July 2020
 
 **Today's Progress**: Fixes to the staff admin page
