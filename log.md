@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day9: 12th July 2020
+
+**Today's Progress**: Add corporate sponsors incl logo & start news item video itgration 
+
+**Thoughts:** 
+- Bleugh.
+
+**Link to work:** N/A
+
+
 ### Day 8: 11th July 2020
 
 **Today's Progress**: Fixes to admin pages
