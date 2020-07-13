@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day10: 13th July 2020
+
+**Today's Progress**: News Items & Youtube fully integrated nicely
+
+**Thoughts:** 
+- Easier than I thought. A few silly bugs from yesterday though; obvs wasn't up to it then!
+
+**Link to work:** N/A
+
 ### Day9: 12th July 2020
 
 **Today's Progress**: Add corporate sponsors incl logo & start news item video itgration 
