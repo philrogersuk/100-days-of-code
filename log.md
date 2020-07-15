@@ -1,7 +1,17 @@
 # 100 Days Of Code - Log
 
 
-### Day10: 13th July 2020
+### Day 11: 14th July 2020
+
+**Today's Progress**: Fixed bug on reports
+
+**Thoughts:** 
+- Small quick change and fix
+- Used optionals to handle possible nulls; could be cleaner overall, but keeps the fix isolated from the wider architecture.
+
+**Link to work:** N/A
+
+### Day 10: 13th July 2020
 
 **Today's Progress**: News Items & Youtube fully integrated nicely
 
@@ -10,7 +20,7 @@
 
 **Link to work:** N/A
 
-### Day9: 12th July 2020
+### Day 9: 12th July 2020
 
 **Today's Progress**: Add corporate sponsors incl logo & start news item video itgration 
 
