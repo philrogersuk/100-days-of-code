@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 
+### Day 12: 15th July 2020
+
+**Today's Progress**: Added new sponsor to HFCTV page on new site
+
+**Thoughts:** 
+- Bad; not automated
+- Good; quick and not common (yearly at the most)
+- Not committed yet; need to fix the "watch" page still.
+
+**Link to work:** N/A
+
+
 ### Day 11: 14th July 2020
 
 **Today's Progress**: Fixed bug on reports
