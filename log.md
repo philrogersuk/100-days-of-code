@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 13: 16th July 2020
+
+**Today's Progress**: Fixed youtube video link on HFCTV watch page
+
+**Thoughts:** 
+- Super simple & fast. 5 minute fix.
+
+**Link to work:** N/A
+
 ### Day 12: 15th July 2020
 
 **Today's Progress**: Added new sponsor to HFCTV page on new site
