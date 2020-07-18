@@ -7,7 +7,7 @@
 
 **Thoughts:** 
 - Bit messy to achieve, but got there. Need to save .conf and .service files locally and script anything required still
-- Now have uptime monitor for main site and test url.
+- Now have uptime monitor for main site and test url at uptimerobot.com.
 
 **Link to work:** https://test.hendonfc.net
 
