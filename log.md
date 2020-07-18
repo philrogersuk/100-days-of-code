@@ -1,6 +1,20 @@
 # 100 Days Of Code - Log
 
 
+### Day 14: 18th July 2020
+
+**Today's Progress**: Now starts greensnet as a service
+
+**Thoughts:** 
+- Bit messy to achieve, but got there. Need to save .conf and .service files locally and script anything required still
+- Now have uptime monitor for main site and test url.
+
+**Link to work:** https://test.hendonfc.net
+
+### Day x: 17th July 2020
+
+Day off
+
 ### Day 13: 16th July 2020
 
 **Today's Progress**: Fixed youtube video link on HFCTV watch page
@@ -63,7 +77,7 @@
 **Link to work:** N/A
 
 
-### Day 7a: 10th July 2020
+### Day x: 10th July 2020
 
 Day off
 
