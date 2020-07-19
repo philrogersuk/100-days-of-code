@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 
+### Day 15: 19th July 2020
+
+**Today's Progress**: New website goes live
+
+**Thoughts:** 
+- Lots of small fixes
+- Had to reduce springboot xmx to 256mb.
+- Seems stable
+- Most of the day adding assets/content
+
+**Link to work:** https://test.hendonfc.net
+
 ### Day 14: 18th July 2020
 
 **Today's Progress**: Now starts greensnet as a service
