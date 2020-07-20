@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Day 15: 19th July 2020
+### Day 16: 20th July 2020
 
 **Today's Progress**: New website support
 
@@ -25,7 +25,7 @@
 - Seems stable
 - Most of the day adding assets/content
 
-**Link to work:** https://test.hendonfc.net
+**Link to work:** https://www.hendonfc.net
 
 ### Day 14: 18th July 2020
 
