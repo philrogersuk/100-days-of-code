@@ -3,6 +3,20 @@
 
 ### Day 15: 19th July 2020
 
+**Today's Progress**: New website support
+
+**Thoughts:** 
+- Upgrade EC2 server to t3a.small; memory issues led to downtime
+- Uploaded last season's penpic images
+- Change server timezone to London
+- Do work to handle pages that have "Gone" on the new site
+
+**Link to work:** N/A
+
+# 100 Days Of Code - Log
+
+### Day 15: 19th July 2020
+
 **Today's Progress**: New website goes live
 
 **Thoughts:** 
