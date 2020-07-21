@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 
+
+### Day 17: 21st July 2020
+
+**Today's Progress**: 404 fixes + Analytics
+
+**Thoughts:** 
+- Fixed a number of 404s on various pages
+- Fixed GA script.
+- Plenty more 404s to handle, but dealt with 30+
+
+**Link to work:** N/A
+
 ### Day 16: 20th July 2020
 
 **Today's Progress**: New website support
