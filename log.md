@@ -2,6 +2,31 @@
 
 
 
+### Day 19: 23rd July 2020
+
+**Today's Progress**: Started document upload functionality
+
+**Thoughts:** 
+- Able to build on image upload :)
+- Quick to create an upload page/index.
+- Still need to provide a way of linking to them in News items etc.
+
+**Link to work:** N/A
+
+
+### Day 18: 22nd July 2020
+
+**Today's Progress**: Mostly smaller changes
+
+**Thoughts:** 
+- Quick create of Covid banner; bit ugly, but fast and functional
+- Added info about unplayed and abandoned fixtures to display
+- Fix to allow creation of league entries
+- Add horizontal line above lower advert to demark end of main content.
+
+**Link to work:** N/A
+
+
 ### Day 17: 21st July 2020
 
 **Today's Progress**: 404 fixes + Analytics
