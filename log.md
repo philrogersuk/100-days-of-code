@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 23: 28th July 2020
+### Day 24: 30th July 2020
+
+**Today's Progress**: Further admin controller testing, refactor return values on POST
+
+**Thoughts:**
+- ResponseStatus still needs some work
+- Edit left to test
+
+**Link to work:** N/A
+
+
+### Day 23: 29th July 2020
 
 **Today's Progress**: Some admin controller testing
 
