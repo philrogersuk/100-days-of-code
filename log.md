@@ -1,6 +1,61 @@
 # 100 Days Of Code - Log
 
+### Day 23: 28th July 2020
 
+**Today's Progress**: Some admin controller testing
+
+**Thoughts:**
+- Not too much work done
+
+**Link to work:** N/A
+
+
+### Day x: 28th July 2020
+
+**Today's Progress**: None
+
+**Thoughts:**
+- Couldn't be bothered to do anything
+- Bleugh
+
+**Link to work:** N/A
+
+
+### Day 22: 27th July 2020
+
+**Today's Progress**: Configure acesss log & re-style sponsor box
+
+**Thoughts:** 
+- Also started news refactor; separation of concerns
+- Improving test coverage (all classes except Admin Controller are done)
+
+**Link to work:** N/A
+
+
+### Day 21: 26th July 2020
+
+**Today's Progress**: 404 fixes.
+
+**Thoughts:** 
+- Fixed a heap of issues relating to 404s and 500s
+- Bit painstaking, but necessary
+
+**Link to work:** N/A
+
+
+### Day 20: 25th July 2020
+
+**Today's Progress**: Merged doc upload, added Corona-RA document.
+
+**Thoughts:** 
+- Bit crude; non relational.
+
+**Link to work:** N/A
+
+
+### Day x: 24th July 2020
+
+Day off
 
 ### Day 19: 23rd July 2020
 
