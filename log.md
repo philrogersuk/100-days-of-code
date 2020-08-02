@@ -1,5 +1,37 @@
 # 100 Days Of Code - Log
 
+### Day 26: 2nd August 2020
+
+**Today's Progress**: Create test react styled-component
+
+**Thoughts:**
+- Test to embed a static component into sidebar
+- Helped by J with last step
+- Currently injects from static HTML -> can I inject from a script on HTML side?
+
+**Link to work:** http://www.hendonfc.net
+
+### Day 25: 1st August 2020
+
+**Today's Progress**: News Admin Controller fully tested!
+
+**Thoughts:**
+- Put all changes in last week live
+- Sponsor box looks much better!
+
+**Link to work:** http://www.hendonfc.net
+
+
+
+### Day N/A: 31st July 2020
+
+**Today's Progress**: Day off
+
+**Thoughts:**
+
+**Link to work:** N/A
+
+
 ### Day 24: 30th July 2020
 
 **Today's Progress**: Further admin controller testing, refactor return values on POST
